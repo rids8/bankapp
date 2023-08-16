@@ -1,0 +1,10 @@
+Mini statement for account number 4567
+-----------------------------------------
+Transaction id  3
+Transaction Type:  deposit
+Amount:4000
+--------------------
+Transaction id  4
+Transaction Type:  withdraw
+Amount:5000
+--------------------
